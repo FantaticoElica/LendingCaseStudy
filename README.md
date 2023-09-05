@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -22,7 +21,6 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 ## What is the dataset that is being used?
 - The analysis is based on the Lending Club dataset containing loan application information and loan performance data
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Approximately 38% of defaulters had loans that were not verified, while only 25% of defaulters had verified loans. This suggests that thorough verification plays a crucial role in reducing default rates
@@ -33,8 +31,6 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 - Borrowers falling within grade ranges B2-C2 and D2-D3 are at a higher risk of default, indicating the importance of loan grading in assessing default probabilities
 - Borrowers with loan amounts between Rs5,000 and Rs1,0000 exhibit a higher tendency to default. This suggests that the loan amount may influence default rates
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Python - version 3.9.5
@@ -42,22 +38,3 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 - NumPy - version 1.21.2
 - Matplotlib - version 3.4.3
 - Seaborn - version 0.11.2
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->

@@ -23,14 +23,14 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 
 ## Conclusions
-- Approximately 38% of defaulters had loans that were not verified, while only 25% of defaulters had verified loans. This suggests that thorough verification plays a crucial role in reducing default rates
-- About 50% of defaulters had either "RENT" or "MORTGAGE" as their home ownership status, and they often used the loan for debt consolidation. These factors are strongly associated with higher default rates
-- Borrowers with employment lengths of 10+ years who chose a loan term of 60 months tend to have higher default rates. In contrast, borrowers with employment lengths between 0 to 5 years who opted for a 36-month term are more prone to defaults
-- Borrowers residing in certain states, namely CA, FL, NY, NJ, and NV, are more likely to default. This trend is particularly pronounced for borrowers in specific zip codes, such as CA-945xx, NY-100xx, FL-331xx, NJ-070xx, and NV-891xx
-- Approximately 8.60% of defaulters did not provide an employment title in their loan applications. This lack of an employment title appears to be associated with a higher default rate
-- Borrowers falling within grade ranges B2-C2 and D2-D3 are at a higher risk of default, indicating the importance of loan grading in assessing default probabilities
-- Borrowers with loan amounts between Rs5,000 and Rs1,0000 exhibit a higher tendency to default. This suggests that the loan amount may influence default rates
-
+Key Factors that can be considered are 
+  1. State has an good co-relation with the Purpose which can be another factor to be considered. While approving loans this combination can be taken into consideration
+  2. Higher Annual Income tends to default less
+  3. Higher Interest rate or Higher Loan Amount among Low Income group tend to have more defaults
+  4. Loan Grades are another good factor to consider especially among Low Income Groups
+  5. Employment Length and Annual Income combination is also another factor that can be looked into. If the Employment Length is higher but their Annual Income is less than the median then their defaulting is higher which 
+     could mean that their living expenses are significantly more thus leading to more defaults.
+  6. Borrowers Home Ownership is also another important factor to understand their monthly expenses which can lead to higher defaults
 
 ## Technologies Used
 - Python - version 3.9.5
